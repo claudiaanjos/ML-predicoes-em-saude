@@ -2,7 +2,6 @@
 
 Disciplina de Machine Learning para Predições em Saúde (2021) da pós-graduação da Faculdade de Saúde Pública da USP ministrada pelo Prof. Alexandre Chiavegatto Filho.
 
-&nbsp;
 
 ## 📂 Informações do curso
 
@@ -14,7 +13,7 @@ O conteúdo aberto está disponível no e-Disciplinas, porém apenas dos anos de
 
 * [Conteúdo](https://edisciplinas.usp.br/course/view.php?id=113967) de 2023.
 
-&nbsp;
+
 
 ## 🎯 Objetivo
 
@@ -22,7 +21,7 @@ Introduzir aplicações práticas de Machine Learning para realizar predições 
 
 O foco do curso será no tipo de dado mais coletado na área da saúde (dados estruturados/tabulares) e será utilizada a linguagem Python.
 
-&nbsp;
+
 
 ## 📚 Conteúdo
 
@@ -53,7 +52,6 @@ penalizadas, redes neurais, random forests, XGBoost, lightGBM e catboost).
 
 * Desafios éticos do uso de machine learning em saúde.
 
-&nbsp;
 
 
 #
