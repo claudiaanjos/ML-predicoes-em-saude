@@ -4,9 +4,9 @@
 
 * [Slides](https://edisciplinas.usp.br/pluginfile.php/7956028/mod_resource/content/1/Aula%202.pdf) utilizados na aula.
 
-* [Artigo](https://neptune.ai/blog/data-preprocessing-guide) Referência da Aula: *A comprehensive guide to data preprocessing*.
+* [Artigo](https://neptune.ai/blog/data-preprocessing-guide) referência da aula: *A comprehensive guide to data preprocessing*.
 
-**Aula**
+### **Aula**
 
 Principais razões técnicas pelas quais algoritmos às vezes não apresentam boa performance preditiva:
 
