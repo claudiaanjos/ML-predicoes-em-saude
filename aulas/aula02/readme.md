@@ -31,7 +31,7 @@ Principais razões técnicas pelas quais algoritmos às vezes não apresentam bo
 - One-hot enconding - Alguns algoritmos têm dificuldade em
 entender variáveis que têm mais do que uma categoria. Transforma em 0 e 1.
 
-**Artigo**
+### **Artigo**
 
 Pré-processamento: método de análise, filtragem, transformação e codificação para que o algoritmo possa compreender os dados.
 
