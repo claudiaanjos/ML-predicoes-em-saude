@@ -1,8 +1,10 @@
 # Aula 03
 
-**Aula**
+### **Aula**
 
-Nessa aula foram discutidos artigos científicos sobre dataset shift e sobre o mito da generalização em estudos de inteligência artificial.
+Na aula foram discutidos artigos científicos sobre dataset shift e sobre o mito da generalização em estudos de inteligência artificial.
+
+Os artigos discutidos foram:
 
 * Finlayson SG et al. [The clinician and dataset shift in artificial intelligence](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8665481/). N Engl J Med 2021; 385(3):283-286.
 
