@@ -12,6 +12,8 @@ Os artigos discutidos foram:
 
 ### **Artigos**
 
+Temos aqui um resumo de cada artigo.
+
 *1 - The clinician and dataset shift in artificial intelligence*
 
 Para garantir o reconhecimento e a correção bem-sucedidos de mudanças nos conjuntos de dados, é essencial que médicos e equipes de governança de IA trabalhem juntos. Os médicos que usam sistemas de IA devem estar atentos a diferenças entre as previsões do modelo e seu julgamento clínico. Eles também devem considerar se sua prática clínica é atípica ou passou por mudanças. As equipes de governança de IA devem facilitar o relato de preocupações pelos médicos e garantir que as preocupações sejam registradas e, se necessário, abordadas. Além disso, essas equipes devem estabelecer protocolos de monitoramento e atualização de IA que incorporem soluções técnicas e feedback clínico em uma lista de verificação de segurança.
