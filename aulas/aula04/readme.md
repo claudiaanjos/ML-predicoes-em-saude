@@ -6,9 +6,9 @@
 
 * [Artigo](https://arxiv.org/abs/1811.12808) referência da aula: *Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning*.
 
-**Aula**
+### **Aula**
 
-Nessa aula foram apresentados conceitos como seleção de modelo, seleção de algoritmo, teorema do não há almoço grátis, hiperparâmetros, subreajuste, trade-off entre viés e variância, divisão entre treino, validação e teste, método holdout, estratificação, viés pessimista, bootstrapping, leave-one-out e validação cruzada.
+Na aula foram apresentados conceitos como seleção de modelo, seleção de algoritmo, teorema do não há almoço grátis, hiperparâmetros, subreajuste, trade-off entre viés e variância, divisão entre treino, validação e teste, método holdout, estratificação, viés pessimista, bootstrapping, leave-one-out e validação cruzada.
 
 **Pergunta em aula: o pré-processamento é realizado tanto no treino quanto no teste?**
 
@@ -26,11 +26,11 @@ Nessa aula foram apresentados conceitos como seleção de modelo, seleção de a
 
 * Ela toma a decisão ao invés do "humano".
 
-**Artigo**
+### **Artigo**
 
 * Técnicas de avaliação do modelo.
 
-* Acurácia: predições corretas/casos. O quanto o algoritmo acerta. Na saúde, os problemas de sáude são raros (a maioria). Exemplo, quem vai a óbito no próximo ano, a proporção é muito pequena. Não é muito utilizada.
+* Acurácia: predições corretas/casos. O quanto o algoritmo acerta. Na saúde, os problemas de sáude são raros (a maioria), por isso não é muito utilizada. Exemplo, quem vai a óbito no próximo ano, a proporção é muito pequena.
 
 * Viés: erro consiste do algoritmo.
 
@@ -42,7 +42,7 @@ Nessa aula foram apresentados conceitos como seleção de modelo, seleção de a
 
 * Holdout: técnica de avalição de qualidade do algoritmo. A estimativa da performace é dada pelos acertos.
 
-* Viés vc variância. High Variance (overfit/sobreajuste) = decorou os dados. High bias (underfit). "Just rigth".
+* Viés vs variância. High Variance (overfit/sobreajuste) = decorou os dados. High bias (underfit). "Just rigth".
 
 * Quanto mais dados diminui a acurácia no treino e aumenta no teste (tendência).
 
