@@ -1,10 +1,10 @@
 # Aula 04
 
-**Materiais**
+### **Materiais**
 
-* [Slides](https://edisciplinas.usp.br/pluginfile.php/7964818/mod_resource/content/1/aula%205%202023.pdf) da aula.
+* [Slides](https://edisciplinas.usp.br/pluginfile.php/7964818/mod_resource/content/1/aula%205%202023.pdf) utilizados na aula.
 
-* Artigo Referência da Aula: *Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning*.
+* [Artigo](https://arxiv.org/abs/1811.12808) referência da aula: *Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning*.
 
 **Aula**
 
