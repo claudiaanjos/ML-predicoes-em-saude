@@ -1,10 +1,10 @@
 # Aula 05
 
-**Materiais**
+### **Materiais**
 
-* [Slides](https://edisciplinas.usp.br/pluginfile.php/7980632/mod_resource/content/1/Aula%207%202023.pdf) da aula.
+* [Slides](https://edisciplinas.usp.br/pluginfile.php/7980632/mod_resource/content/1/Aula%207%202023.pdf) utilizados na aula.
 
-* Artigo Referência da Aula: *Tour of evaluation metrics for imbalanced classification*.
+* [Artigo](https://machinelearningmastery.com/tour-of-evaluation-metrics-for-imbalanced-classification/) referência da aula: *Tour of evaluation metrics for imbalanced classification*.
 
 **Aula e Artigo**
 
