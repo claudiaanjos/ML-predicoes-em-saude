@@ -10,13 +10,13 @@
 
 Na aula foram apresentados conceitos como: RMSE (raiz quadrada do erro quadrático médio), acurácia, classificação desbalanceada, classe minoritária, undersampling, oversampling, matriz de confusão, verdadeiro positivo, falso positivo, falso negativo, verdadeiro negativo, sensibilidade, especificidade, precisão, recall, F1-score, valor predito positivo, valor predito negativo, área abaixo da curva ROC, Brier Score e gráficos de calibração.
 
-* Como fazer rebalanceamento (não é feito no teste!)
+**Como fazer rebalanceamento (não é feito no teste!)**
 
 Down-sampling (under): a classe majoritária se iguala a minoritária
 
 Up-sampling (over): a classe minoritária se iguala a majoritária
 
-* Mensuração de qualidade (performance) é diferente entre regresão e classificação.
+**Mensuração de qualidade (performance) é diferente entre regresão e classificação**
 
 Para regressão utilizamos o RMSE e gráfico de dispersão da predição vs realidade.
 
