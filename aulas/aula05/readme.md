@@ -6,7 +6,7 @@
 
 * [Artigo](https://machinelearningmastery.com/tour-of-evaluation-metrics-for-imbalanced-classification/) referência da aula: *Tour of evaluation metrics for imbalanced classification*.
 
-**Aula e Artigo**
+### **Aula e Artigo**
 
 Na aula foram apresentados conceitos como: RMSE (raiz quadrada do erro quadrático médio), acurácia, classificação desbalanceada, classe minoritária, undersampling, oversampling, matriz de confusão, verdadeiro positivo, falso positivo, falso negativo, verdadeiro negativo, sensibilidade, especificidade, precisão, recall, F1-score, valor predito positivo, valor predito negativo, área abaixo da curva ROC, Brier Score e gráficos de calibração.
 
