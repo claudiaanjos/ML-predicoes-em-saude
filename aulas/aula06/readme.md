@@ -1,6 +1,6 @@
 # Aula 06
 
-Nessa aula foram apresentados e discutidos pelos alunos dois artigos científicos práticos de machine learning que realizaram predições em saúde. O primeiro artigo foi sobre predição de covid-19 (com alguns problemas) e o segundo sobre predição de desfechos clínicos a partir de exames laboratoriais.
+Na aula foram apresentados e discutidos pelos alunos dois artigos científicos práticos de Machine Learning que realizaram predições em saúde. O primeiro artigo foi sobre predição de covid-19 (com alguns problemas) e o segundo sobre predição de desfechos clínicos a partir de exames laboratoriais.
 
 Os artigos apresentados:
 
