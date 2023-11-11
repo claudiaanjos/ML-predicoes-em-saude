@@ -1,6 +1,6 @@
 # Aula 07
 
-**Materiais**
+### **Materiais**
 
 * [Slides](https://edisciplinas.usp.br/pluginfile.php/8011523/mod_resource/content/1/Aula%209%202023.pdf) utilizados na aula.
 
