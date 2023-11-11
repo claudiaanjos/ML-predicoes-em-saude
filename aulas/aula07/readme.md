@@ -6,7 +6,7 @@
 
 * [Artigo](https://dergipark.org.tr/en/download/article-file/1577402#:~:text=Our%20findings%20show%20that%20the,with%20slow%20and%20inconsistent%20performance.) referência da aula: *Comparison of Gradient Boosting Decision Tree Algorithms for CPU Performance*.
 
-* **Aula**
+### **Aula**
 
 Na aula, foram abordados os principais algoritmos de Machine Learning (ML) para dados estruturados. Destacam-se regressões penalizadas, redes neurais e algoritmos de árvore, como árvores de decisão, Random Forest e Gradient Boosting (XGBoost, LightGBM e CatBoost).
 
@@ -16,7 +16,7 @@ Regressões penalizadas, tanto linear quanto logística, geram predições e inc
 
 Redes neurais, incluindo o conceito mais amplo de Deep Learning, também foram discutidas na aula, abordando a utilização de arquiteturas complexas para aprendizado de representações mais profundas e complexas em dados estruturados.
 
-**Artigo**
+### **Artigo**
 
 O artigo compara a implementação de algoritmos de Gradient Boosting Decision Trees (GBDT): XGBoost (o mais popular), LightGBM e CatBoost. O conceito de ensemble, onde várias árvores de decisão são criadas e votam para tomar decisões, é destacado. No GBDT, as árvores são sequenciais, aprendendo com os erros da árvore anterior, ao contrário do Random Forest, onde as árvores são independentes.
 
