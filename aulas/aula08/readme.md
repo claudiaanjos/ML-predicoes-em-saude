@@ -6,7 +6,7 @@
 
 * [Artigo](https://pubmed.ncbi.nlm.nih.gov/29045534/) referência da aula: *Evaluation of variable selection methods for Random Forest and Omics data sets*.
 
-**Aula**
+### **Aula**
 
 Na aula, foram discutidas estratégias para a seleção de variáveis preditoras, com destaque para o algoritmo Boruta. Uma ideia central apresentada foi que os preditores não necessariamente precisam causar o desfecho, mas sim consistentemente predizê-lo.
 
