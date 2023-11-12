@@ -24,7 +24,7 @@ O Boruta é um algoritmo utilizado para seleção de variáveis em problemas de 
 
 Em resumo, o Boruta é uma ferramenta valiosa para seleção de variáveis em problemas de aprendizado de máquina, especialmente quando se busca identificar as características mais importantes em meio a conjuntos de dados complexos.
 
-**Artigo**
+### **Artigo**
 
 O artigo compara diversas abordagens de seleção de variáveis para problemas de alta dimensionalidade, usando simulações e o algoritmo Random Forest (RF). As abordagens avaliadas incluem:
 
