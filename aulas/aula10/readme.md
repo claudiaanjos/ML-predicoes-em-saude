@@ -6,7 +6,7 @@
 
 * [Artigo](https://arxiv.org/abs/2010.09337) referência da aula: *Interpretable machine learning - a brief history, state-of-the-art and challenges*.
 
-**Aula**
+### **Aula**
 
 Na aula, abordamos a distinção entre importância preditiva e causalidade, destacando razões para analisar ou, em alguns casos, evitar a análise da importância preditora de variáveis. Exploramos diferentes aspectos da interpretação, incluindo interpretação intrínseca e extrínseca, análise de componentes, sensibilidade à permutação de preditores, aproximações locais e modelos substitutos.
 
