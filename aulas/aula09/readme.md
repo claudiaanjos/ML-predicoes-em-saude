@@ -1,6 +1,6 @@
 # Aula 09
 
-**Aula**
+### **Aula**
 
 Na aula, foram abordados dois artigos científicos que tratam de aspectos importantes para o futuro da inteligência artificial na área da saúde. O primeiro discute o desafio do equilíbrio entre a necessidade de assegurar a performance preditiva dos algoritmos e a seleção eficiente de variáveis, considerando restrições orçamentárias. Esse tradeoff é fundamental para a implementação prática dos algoritmos em ambientes do mundo real.
 
