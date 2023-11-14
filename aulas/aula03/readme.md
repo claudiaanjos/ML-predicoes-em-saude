@@ -12,19 +12,10 @@ Os artigos discutidos foram:
 
 ### **Artigos**
 
-Temos aqui um resumo de cada artigo.
+* Dataset Shift:
 
-*1 - The clinician and dataset shift in artificial intelligence*
+O termo "Dataset Shift" refere-se à mudança nas características dos dados entre conjuntos de treinamento e teste em um problema de machine learning. Isso pode levar a uma degradação no desempenho do modelo, já que o modelo treinado em um conjunto de dados pode não generalizar bem para dados diferentes nos quais será aplicado. O dataset shift pode ocorrer devido a várias razões, como mudanças nas condições do mundo real, nas distribuições dos dados, ou erros na coleta dos dados. Lidar com o dataset shift é crucial para garantir que os modelos mantenham uma boa capacidade de generalização ao enfrentar dados novos e diferentes.
 
-Para garantir o reconhecimento e a correção bem-sucedidos de mudanças nos conjuntos de dados, é essencial que médicos e equipes de governança de IA trabalhem juntos. Os médicos que usam sistemas de IA devem estar atentos a diferenças entre as previsões do modelo e seu julgamento clínico. Eles também devem considerar se sua prática clínica é atípica ou passou por mudanças. As equipes de governança de IA devem facilitar o relato de preocupações pelos médicos e garantir que as preocupações sejam registradas e, se necessário, abordadas. Além disso, essas equipes devem estabelecer protocolos de monitoramento e atualização de IA que incorporem soluções técnicas e feedback clínico em uma lista de verificação de segurança.
+* Mito da Generalização em Estudos de Inteligência Artificial:
 
-Dataset shift refere-se à situação em que a distribuição dos dados de treinamento difere da distribuição dos dados de teste, o que pode afetar o desempenho dos modelos de aprendizado de máquina. Isso pode ocorrer por várias razões, como mudanças nas condições ou fontes dos dados. Existem diferentes tipos de dataset shift, incluindo mudanças nas variáveis de entrada, na relação entre variáveis e mudanças de domínio. É importante abordar o dataset shift ao desenvolver modelos de machine learning para garantir resultados mais precisos.
-
-No artigo temos uma tabela com uma visão geral da abordagem recomendada para reconhecer e mitigar mudanças no conjunto de dados.
-
-
-
-*2 - The myth of generalisability in clinical research and machine learning in health care*
-
-Uma ênfase em noções excessivamente amplas de generalização no que se refere a aplicações de aprendizado de máquina na área da saúde pode ignorar situações em que o aprendizado de máquina pode fornecer utilidade clínica. Os autores acreditam que este foco estreito na generalização deve ser substituído por considerações mais amplas para o objetivo final de construir sistemas de aprendizado de máquina que sejam úteis à beira do leito.
-
+O "Mito da Generalização" destaca a ideia equivocada de que, uma vez que um modelo é treinado e ajustado em um conjunto de dados específico, ele generalizará perfeitamente para qualquer conjunto de dados futuro. Na realidade, a generalização bem-sucedida depende de muitos fatores, incluindo a representatividade dos dados de treino, a qualidade do modelo, e a presença de dataset shift. A crença excessiva na generalização pode levar a resultados inesperados quando os modelos são aplicados a novos contextos ou dados distintos daqueles em que foram treinados. Portanto, é essencial abordar o dataset shift e considerar as limitações da generalização ao avaliar a eficácia de modelos de inteligência artificial em situações do mundo real.
