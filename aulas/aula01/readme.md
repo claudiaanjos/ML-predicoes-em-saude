@@ -10,37 +10,15 @@
 
 ### **Aula**
 
-**Aprendizado Supervisionado (Foco da dispciplina)**
+Na disciplina, o foco principal é o Aprendizado Supervisionado, onde se busca uma resposta certa. Isso se divide em dois grupos: Classificação, quando a resposta é uma categoria (como prever se alguém morrerá nos próximos 5 anos), e Regressão, que envolve a previsão de uma variável quantitativa (por exemplo, o IMC no próximo ano).
 
-Quando temos/queremos uma resposta certa.
+O Aprendizado Não Supervisionado entra em cena quando não se tem a resposta certa, buscando padrões nos dados, como agrupar pacientes com condições cardiovasculares ou reduzir a dimensão das variáveis.
 
-Temos dois grupos:
-- Classificação: quando tenho uma categoria. Ex.: A pessoa vai morrer daqui 5 anos: sim ou não.
-- Regressão: predizer uma variável quantitativa. Ex.: Qual será seu IMC no próximo ano.
+O Aprendizado Semi-Supervisionado lida com conjuntos de dados que possuem respostas para alguns casos e não para outros, como na identificação de fotos no Facebook.
 
-**Aprendizado Não Supervisionado**
+O Aprendizado por Reforço envolve a interação de um agente com um ambiente dinâmico, comum em jogos, onde o agente aprende por meio de repetidas interações.
 
-Não tenho a resposta certa, procuramos agrupamentos nos dados. 
-Ex.1: Quero agrupar pacientes com pacientes cardiovasculares.
-Ex.2: Redução de dimensão, tenho 30 variáveis e quero transformar em três.
-
-**Aprendizado Semi-Supervisionado**
-
-Dados que tem resposta certa e outros que não tem. Ex.: Identificação de fotos do facebook.
-
-**Aprendizado por Reforço**
-
-Agente interage com um ambiente dinâmico. Ex.: Jogos (aprende jogando várias vezes).
-
-**Inferência vs Predição**
-
-Qual o objetivo da sua análise?
-
-O foco da disciplina é predição.
-
-**Fluxo**
-
-Dados pré-processados ➜ Algoritmos ➜ Teste em dados novos (qualidade do algoritmo)
+A disciplina destaca a diferença entre Inferência e Predição, sendo o foco principal a predição. O processo envolve dados pré-processados, aplicação de algoritmos e teste em dados novos para avaliar a qualidade do algoritmo.
 
 ### **Artigo**
 
