@@ -1,6 +1,6 @@
 # Aula 12
 
-**Aula**
+### **Aula**
 
 Na aula foram discutidos o checklist TRIPOD para o desenvolvimento de modelos preditivos e análise de artigos e um survey sobre o uso de Deep Learning para dados tabulares e os principais desafios da área.
 
