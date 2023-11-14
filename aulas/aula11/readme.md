@@ -10,7 +10,7 @@
 
   - [*Online Learning: A Comprehensive Survey*](https://arxiv.org/abs/1802.02871)
 
-**Aula**
+### **Aula**
 
 Na aula falamos sobre as duas mais importantes técnicas para as aplicações de ML em saúde nos próximos anos: aprendizado federado e aprendizado online (contínuo).
 
