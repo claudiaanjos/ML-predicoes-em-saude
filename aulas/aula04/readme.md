@@ -8,23 +8,13 @@
 
 ### **Aula**
 
-Na aula foram apresentados conceitos como seleção de modelo, seleção de algoritmo, teorema do não há almoço grátis, hiperparâmetros, subreajuste, trade-off entre viés e variância, divisão entre treino, validação e teste, método holdout, estratificação, viés pessimista, bootstrapping, leave-one-out e validação cruzada.
+Nesta aula, foram abordados conceitos essenciais, incluindo seleção de modelo, seleção de algoritmo, teorema do não há almoço grátis, hiperparâmetros, subajuste, trade-off entre viés e variância, divisão entre treino, validação e teste, método holdout, estratificação, viés pessimista, bootstrapping, leave-one-out e validação cruzada.
 
-**Pergunta em aula: o pré-processamento é realizado tanto no treino quanto no teste?**
+Durante a discussão, surgiu a pergunta: "O pré-processamento é realizado tanto no treino quanto no teste?" A resposta destacou a importância de aplicar o pré-processamento a todos os dados, mas com a informação do treino. Por exemplo, a padronização das variáveis é feita apenas com base nos dados de treino.
 
-* O pré-processamento é feito em todos os dados, porém com a informação apenas do treino. Exemplo: padronização das variáveis apenas do treino.
+Além disso, foi sugerido testar três algoritmos de boosting: XGBoost, LightGBM e CatBoost, juntamente com outras opções como Random Forest (RF) e Redes Neurais.
 
-* Aprende no treino, mas transforma tudo.
-
->Sugestão de 3 algoritmos de boosting para testar: XGBoost, LightGBM e CatBoost. Outros: RF e Rede Neural.
-
-**Pergunta em aula sobre PyCaret.**
-
-* Biblioteca que simplifica tarefas de ML. Ela automatiza etapas como pré-processamento de dados, treinamento de modelos e avaliação de desempenho.
-
-* Auto ML / low code.
-
-* Ela toma a decisão ao invés do "humano".
+Uma pergunta específica sobre PyCaret foi abordada. É uma biblioteca que simplifica tarefas de Machine Learning, automatizando etapas como pré-processamento de dados, treinamento de modelos e avaliação de desempenho. Essa ferramenta opera como uma plataforma AutoML (Automated Machine Learning) e utiliza uma abordagem de "low code", tomando decisões automatizadas no lugar do usuário.
 
 ### **Artigo**
 
