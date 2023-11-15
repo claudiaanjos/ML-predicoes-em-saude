@@ -54,7 +54,7 @@ penalizadas, redes neurais, random forests, XGBoost, lightGBM e catboost).
 
 * Estratégias para a identificação da importância de variáveis preditoras (Shapley values).
 
-* Desafios éticos do uso de machine learning em saúde.
+* Desafios éticos do uso de Machine Learning em saúde.
 
 
 #
