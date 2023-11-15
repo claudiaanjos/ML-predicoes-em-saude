@@ -23,7 +23,7 @@ O conteúdo aberto está disponível no e-Disciplinas, porém apenas dos anos de
 
 Introduzir aplicações práticas de Machine Learning para realizar predições na área da saúde.
 
-O foco do curso será no tipo de dado mais coletado na área da saúde (dados estruturados/tabulares) e será utilizada a linguagem Python.
+O foco do curso será no tipo de dado mais coletado na área da saúde (dados estruturados/tabulares) utilizando a linguagem Python.
 
 
 
