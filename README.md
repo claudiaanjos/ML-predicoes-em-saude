@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/static/v1?label=Status&message=CONCLUIDO&color=blue&style=for-the-badge"/>
 </p>
 
-Disciplina de Machine Learning para Predições em Saúde (2021) da pós-graduação da Faculdade de Saúde Pública da USP ministrada pelo Prof. Alexandre Chiavegatto Filho.
+Disciplina de Machine Learning para Predições em Saúde (2021) da pós-graduação da Faculdade de Saúde Pública da USP ministrada pelo Professor Alexandre Chiavegatto Filho.
 
 
 ## 📂 Informações do curso
